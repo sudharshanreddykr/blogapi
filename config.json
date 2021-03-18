@@ -1,0 +1,5 @@
+{
+  "dbUri": "mongodb+srv://sudharshankr:Reddy123@cluster0.hsxeg.mongodb.net/db_blog?retryWrites=true&w=majority",
+  "port": 4444,
+  "secret": "be-Practical2020"
+}
